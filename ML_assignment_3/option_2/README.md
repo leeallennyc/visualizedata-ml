@@ -43,4 +43,4 @@ A [starter Jupyter notebook](https://github.com/visualizedata/ml/blob/master/ML_
 
 ### Process
 
-* Included is a Pdf to illustrate my process. 
+* Included is a Pdf to illustrate my process in the "process" folder

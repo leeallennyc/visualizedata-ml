@@ -2,7 +2,7 @@
 
 ## Due dates:
 
-* Iteration 1: April 21, 11pm  
+* Iteration 1: April 20, 11:59pm  
 * Final: Monday, May 4 at 11:59pm 
 
 ## Assignment description 
@@ -40,3 +40,7 @@ A [starter Jupyter notebook](https://github.com/visualizedata/ml/blob/master/ML_
 * your Python code in a Jupyter Notebook (include all code that contributed to your final model, including data work and feature transformations)  
 * plots that show why you chose the number of clusters you chose  
 * clear documentation that demonstrates cluster results for "good" clusters (including photos, by cluster)
+
+### Process
+
+* Included is a Pdf to illustrate my process. 
